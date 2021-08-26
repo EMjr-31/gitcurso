@@ -1,1 +1,1 @@
-console.log('hi gay');
+console.log('Hellow word');
